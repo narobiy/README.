@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm NAthenarel! 👋
 
 Welcome to my GitHub profile!
 
@@ -22,20 +22,7 @@ I am a [Your Job Title/Role] based in [Your Location]. I am passionate about [Yo
 - Tools & Platforms: [List of Tools & Platforms]
 - Other Skills: [Other Relevant Skills]
 
-## Projects
 
-Here are some of the projects I’ve been working on:
-
-- [Project 1 Name](Link to Project 1 Repository)
-  - Description: [Short Description of Project 1]
-
-- [Project 2 Name](Link to Project 2 Repository)
-  - Description: [Short Description of Project 2]
-
-- [Project 3 Name](Link to Project 3 Repository)
-  - Description: [Short Description of Project 3]
-
-## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
