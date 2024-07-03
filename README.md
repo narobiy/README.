@@ -1,4 +1,4 @@
-# Hi there, I'm NAthenarel! 👋
+# Hi there, I'm NATINAEL! 👋
 
 Welcome to my GitHub profile!
 
